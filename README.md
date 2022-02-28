@@ -12,6 +12,8 @@ LnkedIn - www.linkedin.com/in/shantanu-kudva
  
 Gmail(call me old-school that way hehe) - kudvashantanu2002@gmail.com
 
+Discord - Shantanu#9345
+
 -------------------------------------------------------------------------------------------------------
 
 - Working links of my projects😎
