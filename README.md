@@ -1,10 +1,18 @@
 - 👋 Hi, I’m @ShantanuKudva
+- 
 - 👀 I’m interested in Creative Web Development
+- 
 - 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-
+- 💞️ I’m looking to collaborate on open source projects 
+- 
+- 📫 Ways to get in touch with me:
+ LnkedIn - www.linkedin.com/in/shantanu-kudva-1b6948225
+ Gmail(call me old-school that way hehe) - kudvashantanu2002@gmail.com
 
-- Working links of my projects
+-------------------------------------------------------------------------------------------------------
+
+- Working links of my projects😎
 
 NFT card component-https://nft-card-component.pages.dev
 
