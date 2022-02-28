@@ -8,15 +8,15 @@
 - 
 - 📫 Ways to get in touch with me:
 
-LnkedIn - www.linkedin.com/in/shantanu-kudva
- 
-Gmail(call me old-school that way hehe) - kudvashantanu2002@gmail.com
+   LnkedIn - www.linkedin.com/in/shantanu-kudva
 
-Discord - Shantanu#9345
+   Gmail(call me old-school that way hehe) - kudvashantanu2002@gmail.com
+
+   Discord - Shantanu#9345
 
 -------------------------------------------------------------------------------------------------------
 
-- Working links of my projects😎
+- 🔗 Working links of my projects
 
 NFT card component-https://nft-card-component.pages.dev
 
