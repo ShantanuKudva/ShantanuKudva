@@ -7,8 +7,10 @@
 - 💞️ I’m looking to collaborate on open source projects 
 - 
 - 📫 Ways to get in touch with me:
- LnkedIn - www.linkedin.com/in/shantanu-kudva-1b6948225
- Gmail(call me old-school that way hehe) - kudvashantanu2002@gmail.com
+
+LnkedIn - www.linkedin.com/in/shantanu-kudva-1b6948225
+ 
+Gmail(call me old-school that way hehe) - kudvashantanu2002@gmail.com
 
 -------------------------------------------------------------------------------------------------------
 
