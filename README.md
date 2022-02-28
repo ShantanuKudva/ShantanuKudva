@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShantanuKudva
 - 
-- 👀 I’m interested in Creative Web Development
+- 👀 I’m interested in Creative Web Development and geeking out on animated webpages 
 - 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Intermediate css and sass and trying out js 
 -
 - 💞️ I’m looking to collaborate on open source projects 
 - 
