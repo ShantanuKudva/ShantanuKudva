@@ -8,7 +8,7 @@
 - 
 - 📫 Ways to get in touch with me:
 
-   LnkedIn - www.linkedin.com/in/shantanu-kudva
+   LinkedIn - www.linkedin.com/in/shantanu-kudva
 
    Gmail - kudvashantanu2002@gmail.com
 
