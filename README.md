@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ShantanuKudva
-- 
+
 - 👀 I’m interested in Creative Web Development and geeking out on animated webpages 
-- 
+
 - 🌱 I’m currently learning Intermediate css and sass and trying out js 
--
+
 - 💞️ I’m looking to collaborate on open source projects 
-- 
+
 - 📫 Ways to get in touch with me:
 
    LinkedIn - www.linkedin.com/in/shantanu-kudva
