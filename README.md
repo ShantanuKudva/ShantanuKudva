@@ -25,6 +25,8 @@ Order Summary component-https://order-summary-component-308.pages.dev
 Tindog page-https://tindog-shantanu.pages.dev
 
 Natuors page-https://natuors-shantanu.pages.dev
+
+Random color generator page - https://random-color-generator-x9l.pages.dev
 <!---
 ShantanuKudva/ShantanuKudva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
