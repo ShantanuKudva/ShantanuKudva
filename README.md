@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShantanuKudva
+- 👋 Hi, I’m Shantanu Kudva
 
 - 👀 I’m interested in Creative Web Development and geeking out on animated webpages 
 
