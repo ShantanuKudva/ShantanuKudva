@@ -18,18 +18,20 @@
 
 - 🔗 Working links of my projects
 
+
+Random color generator page - https://random-color-generator-x9l.pages.dev (Do check out the hex color generator)
+
+Tindog page-https://tindog-shantanu.pages.dev (this  was my first attempt of using bootstrap)
+ 
 NFT card component-https://nft-card-component.pages.dev
 
 Order Summary component-https://order-summary-component-308.pages.dev 
 
-Tindog page-https://tindog-shantanu.pages.dev (this  was my first attempt of using bootstrap)
-
 Theme Swapper page - https://theme-swapper.pages.dev 
-
-Random color generator page - https://random-color-generator-x9l.pages.dev (Do check out the hex color generator)
 
 --------------------------------------------------------------------------------------------------------
 -🔗 Pages that are not yet mobile responsive
+
 
 Natuors page-https://natuors-shantanu.pages.dev
 
@@ -37,6 +39,7 @@ Scroll Reveal page - https://scroll-reveal.pages.dev
 
 ----------------------------------------------------------------------------------------------------------
 
+Stay tuned 🙃
 More stuff coming out pretty soon
 
 <!---
