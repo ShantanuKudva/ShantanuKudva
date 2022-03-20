@@ -16,7 +16,7 @@
 
 -------------------------------------------------------------------------------------------------------
 
-.  🔗 Working links of my projects
+-  🔗 Working links of my projects
 
 
 Random color generator page - https://random-color-generator-x9l.pages.dev (Do check out the hex color generator)
@@ -30,7 +30,7 @@ Order Summary component-https://order-summary-component-308.pages.dev
 Theme Swapper page - https://theme-swapper.pages.dev 
 
 --------------------------------------------------------------------------------------------------------
--🔗 Pages that are not yet mobile responsive
+- 🔗 Pages that are not yet mobile responsive
 
 
 Natuors page-https://natuors-shantanu.pages.dev
