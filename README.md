@@ -29,6 +29,8 @@ Order Summary component-https://order-summary-component-308.pages.dev
 
 Theme Swapper page - https://theme-swapper.pages.dev 
 
+Guess My Number page - https://guess-my-number.pages.dev
+
 --------------------------------------------------------------------------------------------------------
 - 🔗 Pages that are not yet mobile responsive
 
