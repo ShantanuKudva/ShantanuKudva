@@ -31,6 +31,8 @@ Theme Swapper page - https://theme-swapper.pages.dev
 
 Guess My Number page - https://guess-my-number.pages.dev
 
+Pig Game - https://pig-game-js.pages.dev
+
 --------------------------------------------------------------------------------------------------------
 - 🔗 Pages that are not yet mobile responsive
 
