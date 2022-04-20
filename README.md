@@ -39,6 +39,8 @@ Natuors page-https://natuors-shantanu.pages.dev
 
 Scroll Reveal page - https://scroll-reveal.pages.dev
 
+pig game - https://pig-game-js.pages.dev
+
 ----------------------------------------------------------------------------------------------------------
 
 Stay tuned 🙃
