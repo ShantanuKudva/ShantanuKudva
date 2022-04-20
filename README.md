@@ -31,7 +31,6 @@ Theme Swapper page - https://theme-swapper.pages.dev
 
 Guess My Number page - https://guess-my-number.pages.dev
 
-Pig Game - https://pig-game-js.pages.dev
 
 --------------------------------------------------------------------------------------------------------
 - 🔗 Pages that are not yet mobile responsive
@@ -41,6 +40,7 @@ Natuors page-https://natuors-shantanu.pages.dev
 
 Scroll Reveal page - https://scroll-reveal.pages.dev
 
+Pig Game - https://pig-game-js.pages.dev
 ----------------------------------------------------------------------------------------------------------
 
 Stay tuned 🙃
