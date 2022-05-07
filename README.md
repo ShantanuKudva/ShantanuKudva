@@ -16,10 +16,10 @@
 
 -------------------------------------------------------------------------------------------------------
 
--  🔗 Working links of my projects
+**-  🔗 Working links of my projects**
 
 
-Random color generator page - https://random-color-generator-x9l.pages.dev (Do check out the hex color generator)
+- 🔗 HTML/CSS PAGES:
 
 Tindog page-https://tindog-shantanu.pages.dev (this  was my first attempt of using bootstrap)
  
@@ -27,21 +27,30 @@ NFT card component-https://nft-card-component.pages.dev
 
 Order Summary component-https://order-summary-component-308.pages.dev 
 
+ (Not Mobile responsive, yet.)
+
+Natuors page-https://natuors-shantanu.pages.dev
+
+-----------------------------------------------------------------------------------------------------------
+
+- 🔗 JavaScript Pages:
+
+Random color generator page - https://random-color-generator-x9l.pages.dev (Do check out the hex color generator)
+
 Theme Swapper page - https://theme-swapper.pages.dev 
 
 Guess My Number page - https://guess-my-number.pages.dev
 
---------------------------------------------------------------------------------------------------------
-- 🔗 Pages that are not yet mobile responsive
+WordBeater - https://wordbeater-shantanu.pages.dev
 
-
-Natuors page-https://natuors-shantanu.pages.dev
+ (Not Mobile responsive, yet.)
+ 
+ pig(dice) game - https://pig-game-js.pages.dev
 
 Scroll Reveal page - https://scroll-reveal.pages.dev
 
-pig game - https://pig-game-js.pages.dev
 
-----------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
 Stay tuned 🙃
 More stuff coming out pretty soon
