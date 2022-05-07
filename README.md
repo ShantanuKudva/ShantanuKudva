@@ -42,7 +42,9 @@ Theme Swapper page - https://theme-swapper.pages.dev
 
 Guess My Number page - https://guess-my-number.pages.dev
 
-WordBeater - https://wordbeater-shantanu.pages.dev
+WordBeater - https://wordbeater-shantanu.pages.dev 
+
+Rock-Paper-Scissors - https://rock-paper-scissors-2ix.pages.dev
 
 ----------
 
