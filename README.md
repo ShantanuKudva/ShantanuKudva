@@ -27,7 +27,7 @@ NFT card component-https://nft-card-component.pages.dev
 
 Order Summary component-https://order-summary-component-308.pages.dev 
 
- (Not Mobile responsive, yet.)
+Pages that aren't mobile responsive, yet.
 
 Natuors page-https://natuors-shantanu.pages.dev
 
@@ -43,7 +43,7 @@ Guess My Number page - https://guess-my-number.pages.dev
 
 WordBeater - https://wordbeater-shantanu.pages.dev
 
- (Not Mobile responsive, yet.)
+Pages that aren't mobile responsive, yet.
  
  pig(dice) game - https://pig-game-js.pages.dev
 
