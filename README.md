@@ -54,6 +54,12 @@ Rock-Paper-Scissors - https://rock-paper-scissors-2ix.pages.dev
 
 Scroll Reveal page - https://scroll-reveal.pages.dev
 
+--------------------------------------------------------------------------------------------------------
+
+**Work in progress**
+
+Portfolio-Shantanu - https://portfolio-v2-2v8.pages.dev
+
 
 --------------------------------------------------------------------------------------------------------
 
