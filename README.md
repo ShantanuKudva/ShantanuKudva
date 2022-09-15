@@ -46,6 +46,8 @@ WordBeater - https://wordbeater-shantanu.pages.dev
 
 Rock-Paper-Scissors - https://rock-paper-scissors-2ix.pages.dev
 
+Password Generator - https://password-shantanu.pages.dev
+
 ----------
 
 **Pages that aren't mobile responsive, yet.**
