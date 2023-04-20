@@ -34,7 +34,7 @@ Natuors page-https://natuors-shantanu.pages.dev
 
 -----------------------------------------------------------------------------------------------------------
 
-- 🔗 JavaScript Pages:
+- 🔗 JavaScript/React Pages:
 
 Random color generator page - https://random-color-generator-x9l.pages.dev (Do check out the hex color generator)
 
@@ -49,6 +49,8 @@ Rock-Paper-Scissors - https://rock-paper-scissors-2ix.pages.dev
 Password Generator - https://password-shantanu.pages.dev
 
 Drum Kit - https://drum-kit-shantanu.pages.dev
+
+Expense Tracker - https://expense-tracker-shantanu.netlify.app/
 
 ----------
 
