@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Creative Web Development and geeking out on animated webpages 
 
-- 🌱 I’m currently learning Intermediate css and sass and trying out js 
+- 🌱 I’m currently learning css frameworks and trying out react library
 
 - 💞️ I’m looking to collaborate in open source projects 
 
