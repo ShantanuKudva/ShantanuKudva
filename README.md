@@ -52,6 +52,8 @@ Drum Kit - https://drum-kit-shantanu.pages.dev
 
 Expense Tracker - https://expense-tracker-shantanu.netlify.app/
 
+GymSurf - https://gym-surf.vercel.app/
+
 ----------
 
 **Pages that aren't mobile responsive, yet.**
