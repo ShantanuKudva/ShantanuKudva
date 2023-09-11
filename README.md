@@ -64,12 +64,6 @@ GymSurf - https://gym-surf.vercel.app/
 
 Scroll Reveal page - https://scroll-reveal.pages.dev
 
---------------------------------------------------------------------------------------------------------
-
-**Work in progress**
-
-Portfolio-Shantanu - https://portfolio-v2-2v8.pages.dev
-
 
 --------------------------------------------------------------------------------------------------------
 
