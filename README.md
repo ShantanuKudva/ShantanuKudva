@@ -14,7 +14,7 @@
 
    Discord - Shantanu#9345
 
-   My Webiste!!! - https://shantanu-portfolio-ebon.vercel.app/projects
+   My Webiste!!! - https://shantanu-portfolio-ebon.vercel.app/
 
 -------------------------------------------------------------------------------------------------------
 
