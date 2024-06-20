@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shantanu</h1>
-<h3 align="center">I'm a full stack developer and an Electronics and Communication Student, based in Bengaluru, India. I build sites and software based on the web.</h3>
+<h3 align="center">I'm a full stack developer and an Electronics and Communication Student, based in Bengaluru, India. Turning ideas into reality with code and creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShantanuKudva&label=Profile%20views&color=brightgreen&style=plastic" alt="ShantanuKudva" /> </p>
 
