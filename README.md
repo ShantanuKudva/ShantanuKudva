@@ -33,7 +33,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="MySql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=mysql&logoColor=fff&style=flat-square" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="fastapi" src="https://shields.io/badge/FastAPI-lightgrey?logo=fastapi&style=plastic&logoColor=black&labelColor=lightgreen" />
