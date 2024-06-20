@@ -17,6 +17,15 @@
 <a href="https://leetcode.com/ShantanuKudva" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="ShantanuKudva"  /></a>
 </p>
 
+<h3 align="left">Experience:</h3>
+<ul>
+  <li><strong>Nivetti Systems Private Limited (03/2024 - Present)</strong><br>
+    Software Developer, Bengaluru<br>
+    - Enhanced supply chain efficiency by developing a user-friendly Supply Chain Management application, resulting in approximately 20% reduction in data entry errors.<br>
+    - Centralized supply chain data from 5 disparate systems into a unified platform; eliminated data silos, improved data accessibility, and accelerated decision-making processes by 40%.
+  </li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
