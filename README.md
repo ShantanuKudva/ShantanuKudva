@@ -43,4 +43,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShantanuKudva&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shantanu-kudva" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShantanuKudva&show_icons=true&theme=gotham&layout=compact" alt="vedant shah" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShantanuKudva&show_icons=true&theme=gotham&layout=compact" alt="Shantanu Kudva" />
