@@ -1,55 +1,63 @@
-<h1 align="center">Hi, I'm Shantanu</h1>
-<h3 align="center">I'm a full stack developer and an Electronics and Communication Student, based in Bengaluru, India. Turning ideas into reality with code and creativity</h3>
+# Hi, I'm Shantanu 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShantanuKudva&label=Profile%20views&color=brightgreen&style=plastic" alt="ShantanuKudva" /> </p>
+I'm a Backend Engineer specialized in system architecture and distributed systems, based in Bengaluru, India. I turn complex architectural challenges into scalable, high-performance solutions.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy?theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=ShantanuKudva&theme=darkhub" alt="ShantanuKudva" /></a> </p>
+## 🚀 About Me
 
-- 👨‍💻 Check out my portfolio website: [https://shantanukudva.vercel.app/](https://shantanukudva.vercel.app/)
+- 🔭 Currently working as a **Software Engineer (Backend)** at **Nivetti Systems**
+- 💻 Specialized in distributed backend technologies, real-time event processing, and high-availability systems
+- 🛠️ Focused on infrastructure optimization, data reliability, and system architecture
+- 👨‍💻 Check out my portfolio: [shantanukudva.vercel.app](https://shantanukudva.vercel.app/)
+- 📫 Reach me at: **kudvashantanu2002@gmail.com**
 
-- 📫 How to reach me **kudvashantanu2002@gmail.com**
+## 💼 Experience
 
-- 📄 Know about my experiences [Here's my CV!](https://drive.google.com/file/d/1c_XO3ZkcBGshAFscKW0dGtlAjZO-t5fS/view?usp=drive_link)
+### Nivetti Systems | Software Engineer (Backend)
+**Mar 2024 – Present** | Bengaluru, India
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shantanu-kudva" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="shantanu-kudva" /></a>
-<a href="https://leetcode.com/ShantanuKudva" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black" alt="ShantanuKudva"  /></a>
-</p>
+- Architected a real-time event processing system using **Apache Flink**, handling 10,000+ events/sec with sub-second latency
+- Migrated storage layer from ELK to **ClickHouse**, achieving 50% faster query performance on billions of logs
+- Built cost-efficient multi-tenant infrastructure with **Docker Swarm** and **Ansible**, improving resource efficiency by 28%
+- Optimized API ingestion pipelines, achieving **15x throughput increase** in Elasticsearch
+- Implemented observability architecture using **Prometheus** and **Grafana**, ensuring 99.9% platform availability
+- Reduced false positive alerts by 70% through intelligent noise-filtering in DGA detection microservices
 
-<h3 align="left">Experience:</h3>
-<ul>
-  <li><strong>Nivetti Systems Private Limited (03/2024 - Present)</strong><br>
-    Software Developer, Bengaluru<br>
-    - Enhanced supply chain efficiency by developing a user-friendly Supply Chain Management application, resulting in approximately 20% reduction in data entry errors.<br>
-    - Centralized supply chain data from 5 disparate systems into a unified platform; eliminated data silos, improved data accessibility, and accelerated decision-making processes by 40%.
-  </li>
-</ul>
+## 🛠️ Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="js" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
-  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="mui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
-  <img alt="fastapi" src="https://shields.io/badge/FastAPI-lightgrey?logo=fastapi&style=plastic&logoColor=black&labelColor=lightgreen" />
-  <img alt="docker" src="https://shields.io/badge/MySQL-lightgrey?logo=docker&style=plastic&logoColor=white&labelColor=blue" />
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img alt="cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-   
-</p>
+**Core Competencies:** System Design • Backend Architecture • Distributed Systems • API Design
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShantanuKudva&show_icons=true&locale=en&layout=compact&theme=gotham" alt="shantanu-kudva" /></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShantanuKudva&show_icons=true&theme=gotham&layout=compact" alt="Shantanu Kudva" />
+**Languages:** Go (Golang) • Python • C++ • SQL • JavaScript/TypeScript
+
+**Backend Technologies:** ClickHouse • Apache Flink • PostgreSQL • Redis • Kafka • Elasticsearch
+
+**Infrastructure & DevOps:** Docker • Ansible • AWS • Prometheus • Grafana • Linux
+
+**Methodologies:** Documentation-Driven Development • CI/CD • Microservices
+
+## 🚀 Featured Projects
+
+### [TrafficVisualizer v2](https://github.com/ShantanuKudva/trafficVisualizer-v2)
+Real-time network visualization system built with **React Three Fiber** and **WebSocket**
+- Renders 1,000+ concurrent network entities at 60 FPS
+- Custom WebSocket protocol with <200ms latency for state synchronization
+
+### [DSA-Commit](https://github.com/ShantanuKudva/StreakDSA)
+Social coding platform built with **Next.js** and **PostgreSQL**
+- Normalized relational database schema for scalable social graphs
+- Optimized API layers with Prisma, achieving sub-100ms response times
+
+## 🎓 Education
+
+**Nitte Meenakshi Institute of Technology** | Bengaluru, India  
+Bachelor of Engineering in Electronics and Communication | CGPA: 8.54  
+Aug 2020 – May 2024
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kudva)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShantanuKudva)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shantanukudva.vercel.app)
+
+---
+
+💡 *"Building scalable systems, one microservice at a time"*
