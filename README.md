@@ -7,7 +7,6 @@ I'm a Backend Engineer specialized in system architecture and distributed system
 - 🔭 Currently working as a **Software Engineer (Backend)** at **Nivetti Systems**
 - 💻 Specialized in distributed backend technologies, real-time event processing, and high-availability systems
 - 🛠️ Focused on infrastructure optimization, data reliability, and system architecture
-- 👨‍💻 Check out my portfolio: [shantanukudva.vercel.app](https://shantanukudva.vercel.app/)
 - 📫 Reach me at: **kudvashantanu2002@gmail.com**
 
 ## 💼 Experience
@@ -26,13 +25,13 @@ I'm a Backend Engineer specialized in system architecture and distributed system
 
 **Core Competencies:** System Design • Backend Architecture • Distributed Systems • API Design
 
-**Languages:** Go (Golang) • Python • C++ • SQL • JavaScript/TypeScript
+**Languages:** Go (Golang) • Python • C++ • SQL • JavaScript/TypeScript, Go
 
 **Backend Technologies:** ClickHouse • Apache Flink • PostgreSQL • Redis • Kafka • Elasticsearch
 
 **Infrastructure & DevOps:** Docker • Ansible • AWS • Prometheus • Grafana • Linux
 
-**Methodologies:** Documentation-Driven Development • CI/CD • Microservices
+**Methodologies:** Documentation-Driven Development • CI/CD • Microservices, Agent-Driven Development
 
 ## 🚀 Featured Projects
 
@@ -56,7 +55,6 @@ Aug 2020 – May 2024
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-kudva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShantanuKudva)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://shantanukudva.vercel.app)
 
 ---
 
